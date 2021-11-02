@@ -1,0 +1,21 @@
+Laravel adalah sebuah Framework PHP
+Framework adalah kumpulan kode program siap pakai dengan aturan penulisan tertentu yang bertujuan untuk memudahkan serta mempercepat pembuatan aplikasi
+PHP Framework adalah Framework yang dibuat dengan menggunakan bahasa PHP
+
+tujuan kenapa menggunakan Framework adalah untuk mempercepat pembuatan aplikasi, karena di dalam Framework sudah tersedia berbagai fitur siap pakai
+
+Bootstrap adalah sebuah Framework CSS yang berisi kumpulan kode CSS untuk mempercepat pembuatan design web
+Framework css selain Bootstrap : Materialize, Zurb Foundation, Bulma, Semantic UI
+Framework PHP selain Laravel : Code Igniter, Symfony, Yii, Zend
+
+Library : umumnya berisi kumpulan kode program untuk tugas yang lebih spesifik sehingga lebih sederhana daripada Framework
+misalnya kita butuh membuat perhitungan statistika, maka bisa mencari library yang berisi rumus-rumus statistik siap pakai
+dompdf adalah library PHP yang bisa dipakai untuk membuat file pdf
+jQuery merupakan salah satu library populer dari javascript
+
+Alasan menggunakan Framework :
+- tersedia fitur siap pakai
+- mengikuti best practice
+- mudah untuk kolaborasi
+- mudah membaca kode program
+- keamanan aplikasi
