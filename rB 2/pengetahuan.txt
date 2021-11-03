@@ -1,0 +1,13 @@
+MVC adalah sebuah arsitektur perancangan kode program
+tujuannya untuk memecah kode program utama menjadi 3 komponen terpisah dengan tugas yang spesifik
+ketiga komponen tersebut adalah :
+- pengaksesan database, disebut sebagai model
+- tampilan design (user interface), disebut sebagai view
+- alur logika program, disebut sebagai controller
+MVC diterapkan memakai bahasa pemrograman smalltalk
+
+Model adalah bagian MVC yang mengurusi database
+View adalah bagian MVC yang mengurusi design tampilan
+Controller adalah bagian MVC yang berisi alur logika program dan juga sebagai penghubung antara model dengan view
+MVC dimaksudkan agar mempermudah programmer dalam membuat dan menata kode program
+Routing berfungsi untuk "menyembunyikan" serta mempercantik nama file controller
