@@ -1,0 +1,7 @@
+Membahas instalasi laravel dan composer
+
+composer merupakan sebuah aplikasi package manager untuk menginstall berbagai file PHP, terutama library dan framework PHP
+package manager adalah sebutan untuk aplikasi yang bertugas mengelola dependency atau ketergantungan antar aplikasi
+composer terinspirasi dari npm
+npm adalah aplikasi package manager yang lebih dahulu hadir untuk bahasa pemrograman JavaScript
+composer berperan sebagai aplikasi yang mengurusi dependency antar library
