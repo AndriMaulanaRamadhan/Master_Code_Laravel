@@ -1,0 +1,16 @@
+Beberapa fungsi folder yang ada di laravel :
+App : berisi berbagai file untuk aplikasi yang akan di bangun. Dalam folder inilah nantinya kita akan membuat controller dan model
+Bootstrap : berisi file app.php yang berfungsi sebagai bootstrap atau file pengaturan awal dari laravel. selain itu terdapat juga folder cache untuk meningkatkan performa aplikasi
+Config : berisi berbagai file konfungurasi laravel
+Database : berisi folder dan file yang 'mengurusi' database seperti migrations, factories dan seeds.
+Public : berisi file index.php sebagai file awal dari semua request ke aplikasi Laravel
+Resource : berisi file resource 'mentah' seperti file CSS dan JavaScript, disini kita juga membuat view
+Routes : berisi file yang akan menangani routing
+storage : berisi tempat penyimpanan file yang digenerate oleh laravel
+Test : berisi file untuk proses testing
+Vendor L berisi berbagai file internal framework laravel
+
+folder yang akan sering diakses :
+app (model dan controller)
+resource (view)
+routes (routing)
