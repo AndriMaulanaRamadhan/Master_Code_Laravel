@@ -1,0 +1,18 @@
+route atau routing berperan sebagai penghubung antara user dengan kesuluruhan framework
+
+didalam file route dibaris ke 3 ada facade, facade adalah istilah Laravel untuk menyebut class bantu
+
+penulisan route laravel mengukuti format berikut :
+Route::<jenis method>(<alamat URL>,<proses yang dijalankan>)
+
+dalam konsep OOP PHP tanda "::" merupakan perintah untuk mengakses sebuah "static method" kepunyaan sebuah class yang dalam kasus ini adalah milik class route
+
+jenis method adalah cara sebuah URL diakses. get merupakan salah satu method yang akan dijalankan ketika alamat URL diakses secara normal
+maksud normal disini adalah dengan mengetik langsung alamat web di address bar web browser atau ketika men-klik sebuah link.
+beberapa jenis method : post, put dan delete
+
+<alamat URL> ini merupakan alamat yang akan diproses oleh route
+
+<proses yang dijalankan> bagian ini kita menulis kode program yang akan dijalankan oleh route yakni apakah kita akann memanggil view, controller atau hal lain
+
+anonymous function atau closure adalah sebuah function yang tidak memiliki nama
